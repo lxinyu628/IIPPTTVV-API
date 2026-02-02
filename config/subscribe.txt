@@ -1,7 +1,10 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
-
+#辽宁-单播
+https://chinaiptv.pages.dev/Unicast/liaoning/unicom.txt
+#辽宁-组播
+https://chinaiptv.pages.dev/Multicast/liaoning/unicom.txt
 
 
 
